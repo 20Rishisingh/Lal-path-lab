@@ -1,4 +1,4 @@
-# Lal Path Lab Clone
+# Lal Path Lab Clone -- https://20rishisingh.github.io/Lal-path-lab/
 
 ## Project Overview
 This project is a simple clone of the Lal Path Lab website, built using only **HTML** and **CSS**. It replicates the layout and design of the original website, focusing on responsive and semantic web design principles.
@@ -28,7 +28,7 @@ project-folder
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/lal-path-lab-clone.git
+   git clone https://github.com/20Rishisingh/Lal-path-lab
    ```
 2. Navigate to the project folder:
    ```bash
